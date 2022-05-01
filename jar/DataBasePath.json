@@ -1,0 +1,4 @@
+{
+    "defaultDataBasePath":"https://g49a8407c743283-db202106220025.adb.ap-tokyo-1.oraclecloudapps.com/ords/admin/student/",
+    "keys":["姓名","國文","英文","學號","數學"]
+}
